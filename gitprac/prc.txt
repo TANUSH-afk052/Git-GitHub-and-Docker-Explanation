@@ -1,2 +1,4 @@
 this is a text file for git practice
 It contains some sample text to demonstrate how to use git commands.
+here are some changes made to this file:
+- Added a new line for demonstration.
