@@ -350,3 +350,17 @@ Pushing a repository uploads your local Git repository to GitHub for remote stor
   - Check for authentication issues or incorrect remote URLs (`git remote -v`).
 
 This guide covers the essentials of Git and GitHub, equipping you with the knowledge to manage version control and collaborate effectively.
+
+Adding 3 commands as 
+1. **Making A Directory (Folder)**
+   ```bash
+   git mkdir To-DoListapp   (Directory Name)
+   ```
+2. **Changing Directory**
+   ```bash
+   git cd "/c/Users/HP/........."
+   ```
+3. **Making Files**
+   ```bash
+   git touch app.js style.css index.html
+   ```
